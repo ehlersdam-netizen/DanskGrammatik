@@ -14,12 +14,12 @@
     </header>
 
     <main class="grid">
-      <a class="card" href="INDSÆT-LINK-TIL-BUILD-UP-HER" target="_blank" rel="noopener noreferrer">
+      <a class="card" href="https://ehlersdam-netizen.github.io/Build-up-ordstilling/" target="_blank" rel="noopener noreferrer">
         <h2>Build-up ordstilling</h2>
         <p>Træn dansk ordstilling ved at sætte ordene sammen i den rigtige rækkefølge.</p>
       </a>
 
-      <a class="card" href="INDSÆT-LINK-TIL-FRASALVERBER-HER" target="_blank" rel="noopener noreferrer">
+      <a class="card" href="https://ehlersdam-netizen.github.io/Frasalverver-og-faste-udtryk/" target="_blank" rel="noopener noreferrer">
         <h2>Frasalverber og faste udtryk</h2>
         <p>Vælg det korrekte udtryk og træn ordforråd og vendinger.</p>
       </a>
