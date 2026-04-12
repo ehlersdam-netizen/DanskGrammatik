@@ -74,26 +74,22 @@ body {
   line-height: 1.5;
 }
 
-.soon {
-  background: #fcfcfd;
-}
-
-.pastel-green {
+.grid > .card:nth-child(5n + 1) {
   background: #e8f5e9;
 }
 
-.pastel-blue {
+.grid > .card:nth-child(5n + 2) {
   background: #eaf2ff;
 }
 
-.pastel-yellow {
+.grid > .card:nth-child(5n + 3) {
   background: #fff8e1;
 }
 
-.pastel-pink {
+.grid > .card:nth-child(5n + 4) {
   background: #fdecef;
 }
 
-.pastel-lilac {
+.grid > .card:nth-child(5n + 5) {
   background: #f3ecff;
 }
